@@ -185,4 +185,4 @@ if not st.sidebar.checkbox("Hide",True,key='16'):
 #Shop Info
 st.markdown("## Address:")
 st.markdown("### Mahaveer Gruh vastu bhandar, opp. Bus Stand , Siddhivinayak Gate, Agasan Road, Diva(E),Thane-400612")
-st.markdown("#### Contact Number: +91919209763") 
+st.markdown("#### Contact Number: +919819209763") 
